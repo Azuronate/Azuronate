@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.ncp.dev/" target="_blank"><img src="https://github.com/Azuronate/Azuronate/blob/main/logo.png" alt="Nathan Parker's banner"></a></p>
+<p align="center"><a href="https://www.ncp.dev/" target="_blank"><img src="./logo.png" alt="Nathan Parker's banner"></a></p>
 <h1 align="center">Interdisciplinary Software Engineering Student</h1>
 
 
@@ -11,37 +11,21 @@ I’m currently a student at Indiana University Bloomington, pursuing my B.S. in
 > [!IMPORTANT]
 My logo, named “The Intra Enmark™,” is a registered trademark of Nathan Parker (U.S. Trademark Registration No. [7775593](https://tsdr.uspto.gov/#caseNumber=98663489&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch)).  It is the exclusive property of Nathan Parker. Any unauthorized use, reproduction, display, or distribution of this logo is strictly prohibited and may constitute trademark infringement under U.S. federal law.
 
-### 🧰 Languages and Tools
-
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="GDScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-<img align="left" alt="Astro.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="SQLite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-<img align="left" alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
-<br />
-<br />
-<div>
-  <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" />
-  <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Vercel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
-  <img align="left" alt="Supabase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
-</div>
-<br />
-<br />
-
-### 📊 GitHub Stats
+<br/>
 <div align="center">
-  <a href="https://github.com/Azuronate/github-readme-stats">
-    <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=Azuronate&theme=github_dark" />
-    <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuronate&theme=github_dark&layout=compact&langs_count=8&card_width=245" />
-  </a> 
+  <a href="www.linkedin.com/in/azuronate" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/Azuronate" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.discord.gg/ksW8rAcU6t" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Azuronate/videos" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/azuronate/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
 </div>
-
